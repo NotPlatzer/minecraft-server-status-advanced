@@ -1,0 +1,24 @@
+{
+  "name": "minecraft-server-api-advanced",
+  "version": "1.0.0",
+  "description": "Gets Information about a Minecraft server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotPlatzer/minecraft-server-status-advanced.git"
+  },
+  "keywords": [
+    "server",
+    "minecraft",
+    "api"
+  ],
+  "author": "notplatzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotPlatzer/minecraft-server-status-advanced/issues"
+  },
+  "homepage": "https://github.com/NotPlatzer/minecraft-server-status-advanced#readme"
+}
